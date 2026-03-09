@@ -1,7 +1,7 @@
 
 # 🎬 Movie Ticket App
 
-## 📌 Opgavebeskrivelse
+## Opgavebeskrivelse
 
 I denne opgave skal I udvikle en **web-applikation til booking af biografbilletter**. Applikationen skal følge det medfølgende design, som er udarbejdet i Figma, og som dækker hele brugerrejsen fra filmudforskning til billetkøb og visning af e-billet.
 
@@ -9,7 +9,7 @@ I må arbejde **alene eller i en 2-personers gruppe**.
 
 ---
 
-## 🎯 Formål
+## Formål
 
 Formålet med opgaven er at:
 
@@ -20,7 +20,7 @@ Formålet med opgaven er at:
 
 ---
 
-## 🛠️ Krav
+## Krav
 
 - Applikationen skal være bygget med **HTML, CSS og JavaScript** (evt. med et framework som React eller NextJS).
 - Designet fra Figma skal følges så tæt som muligt.
@@ -31,7 +31,7 @@ Formålet med opgaven er at:
 
 ---
 
-# 🌟 Ekstra Opgaver:
+# Ekstra Opgaver:
 
 - **Opret bruger**: En formular hvor brugeren kan registrere sig med navn, e-mail og adgangskode.
 - **Log ind**: En login-side hvor brugeren kan logge ind med e-mail og adgangskode.
@@ -41,14 +41,14 @@ Formålet med opgaven er at:
 
 ---
 
-## ✅ Aflevering
+## Aflevering
 
 1. Lav en **pull request** til `main` branch'en i jeres repository.
 2. Inkludér et link til den **live version** af jeres web-app i pull request-beskrivelsen og i denne README-fil under afsnittet "Live Demo".
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
 > Indsæt link til jeres hostede version her, fx:
 > [https://biografbooking.netlify.app](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
