@@ -1,5 +1,5 @@
 
-# 🎬 Movie Ticket App
+# Movie Ticket App
 
 ## Opgavebeskrivelse
 
